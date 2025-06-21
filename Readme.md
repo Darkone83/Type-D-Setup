@@ -1,5 +1,13 @@
 # Type D Setup
 
+<p align="center">
+  <img src="https://github.com/Darkone83/Type-D-Setup/blob/main/images/logo.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Darkone83/Type-D-Setup/blob/main/images/XBMC4Gamers.jpg"><img src="https://github.com/Darkone83/Type-D-Setup/blob/main/images/APP.jpg">
+</p>
+
 Type D Setup is a configuration utility for the Type D and Type D XL displays, designed to run on original Xbox hardware. It features automatic device discovery, menu-based configuration, and device status display, all navigable via controller input. The UI is styled for clarity and quick navigation.
 
 ---
